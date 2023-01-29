@@ -1,0 +1,186 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "email": "leomessi@gmail.com",
+      "password": "leo",
+      "Nombre": "Lionel Andres",
+      "Apellido": "Messi",
+      "cbu": 2056789900
+    },
+    {
+      "id": 2,
+      "email": "mateo@gmail.com",
+      "password": "prueba",
+      "Nombre": "Mateo",
+      "Apellido": "Taricco",
+      "cbu": 6953189852
+    },
+    {
+      "email": "probando@gmail.com",
+      "password": "holamundo",
+      "Nombre": "esto es ",
+      "Apellido": "una prueba",
+      "cbu": 3348523303,
+      "id": 3
+    },
+    {
+      "email": "mateotari@gmail.com",
+      "password": "probando",
+      "Nombre": "Mateo",
+      "Apellido": "Taricco",
+      "cbu": 7526189641,
+      "id": 4
+    },
+    {
+      "email": "nico@otamendi.com",
+      "password": "1234",
+      "Nombre": "Nicolas ",
+      "Apellido": "Otamenti",
+      "cbu": 3938286094,
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "Nombre": "",
+      "Apellido": "",
+      "cbu": 308130797,
+      "id": 6
+    },
+    {
+      "email": "juan@juan.com",
+      "password": "123456",
+      "Nombre": "Juan Manuel",
+      "Apellido": "Rodriguez",
+      "cbu": 2545709891,
+      "id": 7
+    },
+    {
+      "email": "nadiapilarm@kdkkd.com",
+      "password": "dskdkkdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "Nombre": "Nadia pilar",
+      "Apellido": "Montenegro",
+      "cbu": 4042353875,
+      "id": 8
+    },
+    {
+      "email": "skkkkkkkkkkkkkkk",
+      "password": "5555",
+      "Nombre": "pilar",
+      "Apellido": "montenegro",
+      "cbu": 223282835,
+      "id": 9
+    },
+    {
+      "email": "",
+      "password": "12345678",
+      "Nombre": "Pilar",
+      "Apellido": "Montenegro",
+      "cbu": 5929281122,
+      "id": 10
+    }
+  ],
+  "transaccionFinal": [
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 1,
+      "cuenta": 2,
+      "fecha": "20/10/2022",
+      "debe": 0,
+      "haber": 30000,
+      "cotARSvsBTC": 2928558,
+      "id": 1
+    },
+    {
+      "idUsuario": 2,
+      "codigoMovimiento": 1,
+      "cuenta": 2,
+      "fecha": "20/10/2022",
+      "debe": 0,
+      "haber": 30000,
+      "cotARSvsBTC": 2928558,
+      "id": 2
+    },
+    {
+      "idUsuario": 3,
+      "codigoMovimiento": 1,
+      "cuenta": 2,
+      "fecha": "20/10/2022",
+      "debe": 0,
+      "haber": 30000,
+      "cotARSvsBTC": 2928558,
+      "id": 3
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 3,
+      "cuenta": 2,
+      "fecha": "13/11/2022 - 20:09 hrs",
+      "debe": 20000,
+      "haber": 0,
+      "cotARSvsBTC": 2629137,
+      "id": 4
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 4,
+      "cuenta": 1,
+      "fecha": "13/11/2022 - 20:09 hrs",
+      "debe": 0,
+      "haber": 0.007607058894230312,
+      "cotARSvsBTC": 2629137,
+      "id": 5
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 1,
+      "cuenta": 2,
+      "fecha": "11/12/2022 - 19:56 hrs",
+      "debe": 0,
+      "haber": 4000,
+      "cotARSvsBTC": 0,
+      "id": 6
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 3,
+      "cuenta": 2,
+      "fecha": "11/12/2022 - 19:56 hrs",
+      "debe": 4000,
+      "haber": 0,
+      "cotARSvsBTC": 2911373,
+      "id": 7
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 4,
+      "cuenta": 1,
+      "fecha": "11/12/2022 - 19:56 hrs",
+      "debe": 0,
+      "haber": 0.001373922200968409,
+      "cotARSvsBTC": 2911373,
+      "id": 8
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 3,
+      "cuenta": 2,
+      "fecha": "11/12/2022 - 19:59 hrs",
+      "debe": 5000,
+      "haber": 0,
+      "cotARSvsBTC": 2913425,
+      "id": 9
+    },
+    {
+      "idUsuario": 1,
+      "codigoMovimiento": 4,
+      "cuenta": 1,
+      "fecha": "11/12/2022 - 19:59 hrs",
+      "debe": 0,
+      "haber": 0.0017161931403760179,
+      "cotARSvsBTC": 2913425,
+      "id": 10
+    }
+  ]
+}
